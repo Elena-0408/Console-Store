@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtbAUdUTFK7hr6dR3Zk15Xx2DN7B4t5GS1GAuHAHvqx/EXSjUDajvD0JLigqFf50MRbVwJ1RvmaUoy4bEcE07Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\я\\Documents\\Proj\\Store\\Start\\Start.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\я\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\я\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\я\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\я\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\я\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\я\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\я\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
